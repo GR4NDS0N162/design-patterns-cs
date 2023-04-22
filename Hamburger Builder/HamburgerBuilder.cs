@@ -8,7 +8,7 @@ namespace HamburgerBuilder
 {
     internal class HamburgerBuilder : IHamburgerBuilder
     {
-        private Hamburger hamburger;
+        private Hamburger hamburger = new Hamburger();
 
         public void Reset()
         {
