@@ -18,10 +18,6 @@ namespace HamburgerBuilder
             hamburgerDirector.MakeHamburger();
             Hamburger hamburger = hamburgerBuilder.GetHamburger();
 
-            // Добавляем гамбургер в список созданных объектов
-            List<Hamburger> hamburgers = new List<Hamburger>();
-            hamburgers.Add(hamburger);
-
             // Выводим на экран ингредиенты гамбургера
             hamburger.DisplayIngredients();
 
