@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HamburgerBuilder.Hamburger" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAkgAAAIAAAIAAAAGAAACAAAQAAAAAADAEAAAA=</HashCode>
+      <FileName>Hamburger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HamburgerBuilder.HamburgerBuilder" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAABAAQAAAAAAAAAAAAQAAAACAAAEAAEAA=</HashCode>
+      <FileName>HamburgerBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HamburgerBuilder.HamburgerDirector" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAACACAAAAAAA=</HashCode>
+      <FileName>HamburgerDirector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HamburgerBuilder.Program" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="HamburgerBuilder.IHamburgerBuilder" Collapsed="true">
+    <Position X="1.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAABAAQAAAAAAAAAAAAQAAAACAAAEAAAAA=</HashCode>
+      <FileName>IHamburgerBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
